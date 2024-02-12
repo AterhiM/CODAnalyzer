@@ -2,6 +2,8 @@
 
 ## Solution Name: CODAlyzer
 
+![CODAnalyzer Logo](./logo/logo.png)
+
 CODAlyzer is a simple Streamlit app designed to empower e-commerce strategists in selecting the ideal African market for Cash On Delivery (COD) strategies. By leveraging specific country-level data, users can explore and analyze various metrics to identify markets with the most significant potential for COD implementation.
 
 **Note:** The app provides initial features to analyze about the african countries that influences the choice of the suitable target market for COD.
@@ -28,8 +30,8 @@ To run CODAlyzer on your local machine, follow these steps:
 1. **Clone the Repository**
 
     ```
-    git clone 
-    cd 
+    git clone https://github.com/AterhiM/CODAnalyzer.git
+    cd CODAnalyzer
     ```
 
 2. **Set Up Your Environment**
