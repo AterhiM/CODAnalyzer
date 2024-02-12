@@ -11,13 +11,12 @@ CODAlyzer is a simple Streamlit app designed to empower e-commerce strategists i
 ### Key Features:
 
 - **Dynamic Metric Selection**: Choose from a range of economic and demographic metrics to focus your analysis such as:
-    * Population
-    * Average Age
-    * GDP per Capita (in $)
-    * Merchant Marine ()
-    * Number of Internet Users
-    * Internet Users (%)
-    * Unemployment Rate (%)
+    * **Population**: A larger population offers a broader customer base for e-commerce businesses. High population areas, especially urban centers, often have better logistics and delivery infrastructure, making COD more feasible and efficient.
+    * **Average Age**: The average age can signal the potential market segment for e-commerce. Younger populations might be more tech-savvy and open to online shopping, while the preferences of older demographics could influence the type of products sold and the COD services offered.
+    * **GDP per Capita (in $)**: it's a measure of a country's economic strength and individual purchasing power. Higher GDP per capita suggests more disposable income and potentially greater demand for e-commerce, making COD a viable payment option.
+    * **Merchant Marine**: A strong merchant marine can enhance a country's logistics and shipping capabilities, crucial for e-commerce. Efficient shipping networks can lower delivery costs and times, benefiting COD operations by making them more reliable and appealing to customers.
+    * **Internet Users (%)**: This metric helps gauge the digital penetration of a country. Higher internet penetration rates can lead to increased e-commerce activity, creating a conducive environment for COD by ensuring a wider reach of potential online shoppers.
+    * **Unemployment Rate (%)**: The unemployment rate can influence consumer spending behavior. Higher unemployment may reduce disposable income and affect e-commerce growth negatively. However, understanding this metric helps tailor COD services to match the economic conditions and consumer capability to pay upon delivery.
 
 - **Interactive Sliders**: Adjust criteria thresholds to filter countries based on selected metrics.
 - **Comprehensive Visualization**: View a multi-bar plot displaying selected metrics for each country, enabling easy comparison and decision-making.
